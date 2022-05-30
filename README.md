@@ -1,6 +1,4 @@
 # Early-exit-Inference-Weak-Dominance
-
-# Early-exit Network(s)
 This is an RnD Project on Early-exit inference of NNs using Online machine learning aspects
 
 ## Conda Environment
